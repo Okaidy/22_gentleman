@@ -1,0 +1,27 @@
+/*espacio entre titulos de menu*/
+.pr-20{
+	padding-right: 20px;
+}
+/*quita viñetas*/
+ul{
+	list-style-type: none;
+}
+/*cambia de color al pasar el mouse*/
+.rojo:hover {
+	color: red;
+}
+.negro:hover {
+	color: black;
+}
+/*ancho del menu*/
+nav{
+	height: 80px;
+}
+/*bordes de botones*/
+.forma{
+	width: 150px;
+	border-radius: 50px;
+	background-color: gray;
+	padding: 10px;
+}
+
