@@ -34,3 +34,30 @@
 .pl5{
 	padding-left: 5px;
 }
+.font-14{
+	font-size: 14px;
+}
+.auto{
+	margin: auto;
+}
+.pt-50{
+	padding-top: 50px;
+}
+.pb-80{
+	padding-bottom: 80px;
+}
+.link{
+	color: purple;
+}
+.italic{
+	font-style: italic;
+}
+.font-20{
+	font-size: 20px;
+}
+.font-30{
+	font-size: 20px;
+}
+.pb-50{
+	padding-bottom: 50px;
+}

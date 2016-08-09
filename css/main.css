@@ -24,4 +24,9 @@ nav{
 	background-color: gray;
 	padding: 10px;
 }
+.linea{
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
 
