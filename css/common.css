@@ -56,8 +56,29 @@
 	font-size: 20px;
 }
 .font-30{
-	font-size: 20px;
+	font-size: 30px;
 }
 .pb-50{
 	padding-bottom: 50px;
+}
+.open{
+	font-family: 'Open Sans', sans-serif;
+}
+.dosis{
+	font-family: 'Dosis', sans-serif;
+}
+.light{
+	font-weight: 100;
+}
+.robot{
+	font-family: 'Roboto Slab', serif;
+}
+.mgt-80{
+	margin-top: 80px;
+}
+.font-12{
+	font-size: 12px;
+}
+.bg-rojo{
+	background: red;
 }
